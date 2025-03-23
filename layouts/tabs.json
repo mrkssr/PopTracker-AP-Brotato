@@ -1,0 +1,48 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Crates",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crates"
+                    ]
+                }
+            },
+            {
+                "title": "characters",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "characters"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Crates",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crates"
+                    ]
+                }
+            },
+            {
+                "title": "characters",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "characters"
+                    ]
+                }
+            }
+        ]
+    }
+}

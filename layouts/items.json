@@ -1,0 +1,248 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "characters/base/jack",
+                                "characters/base/chunky",
+                                "characters/base/golem",
+                                "characters/base/pacifist",
+                                "characters/base/soldier",
+                                "characters/dlc/creature",
+                                "items/gold(50)",
+                                "items/gold(200)",
+                                "characters/base/sick"
+                            ],
+                            [
+                                "characters/base/loud",
+                                "items/gold(100)",
+                                "characters/base/knight",
+                                "characters/dlc/diver",
+                                "items/legendaryitem",
+                                "characters/base/lich",
+                                "characters/dlc/ogre",
+                                "characters/base/explorer",
+                                "characters/base/armsdealer"
+                            ],
+                            [
+                                "characters/base/wildling",
+                                "items/xp",
+                                "characters/dlc/druid",
+                                "items/runwon",
+                                "characters/base/cryptid",
+                                "items/uncommonupgrade",
+                                "characters/base/bull",
+                                "characters/base/apprentice",
+                                "items/uncommonitem"
+                            ],
+                            [
+                                "characters/dlc/romantic",
+                                "items/legendaryupgrade",
+                                "characters/base/entrepreneur",
+                                "characters/base/mage",
+                                "characters/dlc/curious",
+                                "characters/base/saver",
+                                "characters/base/technomage",
+                                "characters/dlc/gangster",
+                                "characters/base/brawler"
+                            ],
+                            [
+                                "characters/base/vagabond",
+                                "characters/base/wellrounded",
+                                "characters/base/lucky",
+                                "characters/base/fisherman",
+                                "characters/base/artificer",
+                                "items/rareupgrade",
+                                "characters/base/ranger",
+                                "characters/base/demon",
+                                "items/progressiveshopslot"
+                            ],
+                            [
+                                "characters/base/hunter",
+                                "characters/base/multitasker",
+                                "characters/base/glutton",
+                                "characters/base/ghost",
+                                "characters/base/onearmed",
+                                "items/gold(25)",
+                                "characters/dlc/sailor",
+                                "items/rareitem",
+                                "characters/base/masochist"
+                            ],
+                            [
+                                "characters/dlc/buccaneer",
+                                "characters/base/doctor",
+                                "characters/base/cyborg",
+                                "characters/base/baby",
+                                "characters/dlc/chef",
+                                "characters/base/gladiator",
+                                "characters/base/speedy",
+                                "characters/base/vampire",
+                                "characters/base/streamer"
+                            ],
+                            [
+                                "characters/base/generalist",
+                                "characters/base/old",
+                                "characters/base/engineer",
+                                "items/commonitem",
+                                "characters/dlc/hiker",
+                                "characters/dlc/builder",
+                                "items/gold(10)",
+                                "characters/base/mutant",
+                                "characters/base/crazy"
+                            ],
+                            [
+                                "characters/base/renegade",
+                                "items/commonupgrade",
+                                "characters/base/king",
+                                "characters/dlc/captain",
+                                "characters/dlc/dwarf",
+                                "characters/base/farmer",
+                                "items/progressiveshoplockbutton",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "characters/base/jack",
+                                "characters/base/chunky",
+                                "characters/base/golem",
+                                "characters/base/pacifist",
+                                "characters/base/soldier",
+                                "characters/dlc/creature",
+                                "items/gold(50)",
+                                "items/gold(200)",
+                                "characters/base/sick"
+                            ],
+                            [
+                                "characters/base/loud",
+                                "items/gold(100)",
+                                "characters/base/knight",
+                                "characters/dlc/diver",
+                                "items/legendaryitem",
+                                "characters/base/lich",
+                                "characters/dlc/ogre",
+                                "characters/base/explorer",
+                                "characters/base/armsdealer"
+                            ],
+                            [
+                                "characters/base/wildling",
+                                "items/xp",
+                                "characters/dlc/druid",
+                                "items/runwon",
+                                "characters/base/cryptid",
+                                "items/uncommonupgrade",
+                                "characters/base/bull",
+                                "characters/base/apprentice",
+                                "items/uncommonitem"
+                            ],
+                            [
+                                "characters/dlc/romantic",
+                                "items/legendaryupgrade",
+                                "characters/base/entrepreneur",
+                                "characters/base/mage",
+                                "characters/dlc/curious",
+                                "characters/base/saver",
+                                "characters/base/technomage",
+                                "characters/dlc/gangster",
+                                "characters/base/brawler"
+                            ],
+                            [
+                                "characters/base/vagabond",
+                                "characters/base/wellrounded",
+                                "characters/base/lucky",
+                                "characters/base/fisherman",
+                                "characters/base/artificer",
+                                "items/rareupgrade",
+                                "characters/base/ranger",
+                                "characters/base/demon",
+                                "items/progressiveshopslot"
+                            ],
+                            [
+                                "characters/base/hunter",
+                                "characters/base/multitasker",
+                                "characters/base/glutton",
+                                "characters/base/ghost",
+                                "characters/base/onearmed",
+                                "items/gold(25)",
+                                "characters/dlc/sailor",
+                                "items/rareitem",
+                                "characters/base/masochist"
+                            ],
+                            [
+                                "characters/dlc/buccaneer",
+                                "characters/base/doctor",
+                                "characters/base/cyborg",
+                                "characters/base/baby",
+                                "characters/dlc/chef",
+                                "characters/base/gladiator",
+                                "characters/base/speedy",
+                                "characters/base/vampire",
+                                "characters/base/streamer"
+                            ],
+                            [
+                                "characters/base/generalist",
+                                "characters/base/old",
+                                "characters/base/engineer",
+                                "items/commonitem",
+                                "characters/dlc/hiker",
+                                "characters/dlc/builder",
+                                "items/gold(10)",
+                                "characters/base/mutant",
+                                "characters/base/crazy"
+                            ],
+                            [
+                                "characters/base/renegade",
+                                "items/commonupgrade",
+                                "characters/base/king",
+                                "characters/dlc/captain",
+                                "characters/dlc/dwarf",
+                                "characters/base/farmer",
+                                "items/progressiveshoplockbutton",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

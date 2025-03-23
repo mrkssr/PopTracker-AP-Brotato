@@ -1,0 +1,700 @@
+[
+    {
+        "name": "characters/base/jack",
+        "type": "toggle",
+        "img": "images/items/characters/base/jack.png",
+        "img_mods": "",
+        "codes": "characters/base/jack"
+    },
+    {
+        "name": "characters/base/chunky",
+        "type": "toggle",
+        "img": "images/items/characters/base/chunky.png",
+        "img_mods": "",
+        "codes": "characters/base/chunky"
+    },
+    {
+        "name": "characters/base/golem",
+        "type": "toggle",
+        "img": "images/items/characters/base/golem.png",
+        "img_mods": "",
+        "codes": "characters/base/golem"
+    },
+    {
+        "name": "characters/base/pacifist",
+        "type": "toggle",
+        "img": "images/items/characters/base/pacifist.png",
+        "img_mods": "",
+        "codes": "characters/base/pacifist"
+    },
+    {
+        "name": "characters/base/soldier",
+        "type": "toggle",
+        "img": "images/items/characters/base/soldier.png",
+        "img_mods": "",
+        "codes": "characters/base/soldier"
+    },
+    {
+        "name": "characters/dlc/creature",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/creature.png",
+        "img_mods": "",
+        "codes": "characters/dlc/creature"
+    },
+    {
+        "name": "items/gold(50)",
+        "type": "consumable",
+        "img": "images/items/items/gold(50).png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/gold(50)"
+    },
+    {
+        "name": "items/gold(200)",
+        "type": "consumable",
+        "img": "images/items/items/gold(200).png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/gold(200)"
+    },
+    {
+        "name": "characters/base/sick",
+        "type": "toggle",
+        "img": "images/items/characters/base/sick.png",
+        "img_mods": "",
+        "codes": "characters/base/sick"
+    },
+    {
+        "name": "characters/base/loud",
+        "type": "toggle",
+        "img": "images/items/characters/base/loud.png",
+        "img_mods": "",
+        "codes": "characters/base/loud"
+    },
+    {
+        "name": "items/gold(100)",
+        "type": "consumable",
+        "img": "images/items/items/gold(100).png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/gold(100)"
+    },
+    {
+        "name": "characters/base/knight",
+        "type": "toggle",
+        "img": "images/items/characters/base/knight.png",
+        "img_mods": "",
+        "codes": "characters/base/knight"
+    },
+    {
+        "name": "characters/dlc/diver",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/diver.png",
+        "img_mods": "",
+        "codes": "characters/dlc/diver"
+    },
+    {
+        "name": "items/legendaryitem",
+        "type": "consumable",
+        "img": "images/items/items/legendaryitem.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/legendaryitem"
+    },
+    {
+        "name": "characters/base/lich",
+        "type": "toggle",
+        "img": "images/items/characters/base/lich.png",
+        "img_mods": "",
+        "codes": "characters/base/lich"
+    },
+    {
+        "name": "characters/dlc/ogre",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/ogre.png",
+        "img_mods": "",
+        "codes": "characters/dlc/ogre"
+    },
+    {
+        "name": "characters/base/explorer",
+        "type": "toggle",
+        "img": "images/items/characters/base/explorer.png",
+        "img_mods": "",
+        "codes": "characters/base/explorer"
+    },
+    {
+        "name": "characters/base/armsdealer",
+        "type": "toggle",
+        "img": "images/items/characters/base/armsdealer.png",
+        "img_mods": "",
+        "codes": "characters/base/armsdealer"
+    },
+    {
+        "name": "characters/base/wildling",
+        "type": "toggle",
+        "img": "images/items/characters/base/wildling.png",
+        "img_mods": "",
+        "codes": "characters/base/wildling"
+    },
+    {
+        "name": "items/xp",
+        "type": "consumable",
+        "img": "images/items/items/xp.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/xp"
+    },
+    {
+        "name": "characters/dlc/druid",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/druid.png",
+        "img_mods": "",
+        "codes": "characters/dlc/druid"
+    },
+    {
+        "name": "items/runwon",
+        "type": "consumable",
+        "img": "images/items/items/runwon.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/runwon"
+    },
+    {
+        "name": "characters/base/cryptid",
+        "type": "toggle",
+        "img": "images/items/characters/base/cryptid.png",
+        "img_mods": "",
+        "codes": "characters/base/cryptid"
+    },
+    {
+        "name": "items/uncommonupgrade",
+        "type": "consumable",
+        "img": "images/items/items/uncommonupgrade.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/uncommonupgrade"
+    },
+    {
+        "name": "characters/base/bull",
+        "type": "toggle",
+        "img": "images/items/characters/base/bull.png",
+        "img_mods": "",
+        "codes": "characters/base/bull"
+    },
+    {
+        "name": "characters/base/apprentice",
+        "type": "toggle",
+        "img": "images/items/characters/base/apprentice.png",
+        "img_mods": "",
+        "codes": "characters/base/apprentice"
+    },
+    {
+        "name": "items/uncommonitem",
+        "type": "consumable",
+        "img": "images/items/items/uncommonitem.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/uncommonitem"
+    },
+    {
+        "name": "characters/dlc/romantic",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/romantic.png",
+        "img_mods": "",
+        "codes": "characters/dlc/romantic"
+    },
+    {
+        "name": "items/legendaryupgrade",
+        "type": "consumable",
+        "img": "images/items/items/legendaryupgrade.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/legendaryupgrade"
+    },
+    {
+        "name": "characters/base/entrepreneur",
+        "type": "toggle",
+        "img": "images/items/characters/base/entrepreneur.png",
+        "img_mods": "",
+        "codes": "characters/base/entrepreneur"
+    },
+    {
+        "name": "characters/base/mage",
+        "type": "toggle",
+        "img": "images/items/characters/base/mage.png",
+        "img_mods": "",
+        "codes": "characters/base/mage"
+    },
+    {
+        "name": "characters/dlc/curious",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/curious.png",
+        "img_mods": "",
+        "codes": "characters/dlc/curious"
+    },
+    {
+        "name": "characters/base/saver",
+        "type": "toggle",
+        "img": "images/items/characters/base/saver.png",
+        "img_mods": "",
+        "codes": "characters/base/saver"
+    },
+    {
+        "name": "characters/base/technomage",
+        "type": "toggle",
+        "img": "images/items/characters/base/technomage.png",
+        "img_mods": "",
+        "codes": "characters/base/technomage"
+    },
+    {
+        "name": "characters/dlc/gangster",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/gangster.png",
+        "img_mods": "",
+        "codes": "characters/dlc/gangster"
+    },
+    {
+        "name": "characters/base/brawler",
+        "type": "toggle",
+        "img": "images/items/characters/base/brawler.png",
+        "img_mods": "",
+        "codes": "characters/base/brawler"
+    },
+    {
+        "name": "characters/base/vagabond",
+        "type": "toggle",
+        "img": "images/items/characters/base/vagabond.png",
+        "img_mods": "",
+        "codes": "characters/base/vagabond"
+    },
+    {
+        "name": "characters/base/wellrounded",
+        "type": "toggle",
+        "img": "images/items/characters/base/wellrounded.png",
+        "img_mods": "",
+        "codes": "characters/base/wellrounded"
+    },
+    {
+        "name": "characters/base/lucky",
+        "type": "toggle",
+        "img": "images/items/characters/base/lucky.png",
+        "img_mods": "",
+        "codes": "characters/base/lucky"
+    },
+    {
+        "name": "characters/base/fisherman",
+        "type": "toggle",
+        "img": "images/items/characters/base/fisherman.png",
+        "img_mods": "",
+        "codes": "characters/base/fisherman"
+    },
+    {
+        "name": "characters/base/artificer",
+        "type": "toggle",
+        "img": "images/items/characters/base/artificer.png",
+        "img_mods": "",
+        "codes": "characters/base/artificer"
+    },
+    {
+        "name": "items/rareupgrade",
+        "type": "consumable",
+        "img": "images/items/items/rareupgrade.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/rareupgrade"
+    },
+    {
+        "name": "characters/base/ranger",
+        "type": "toggle",
+        "img": "images/items/characters/base/ranger.png",
+        "img_mods": "",
+        "codes": "characters/base/ranger"
+    },
+    {
+        "name": "characters/base/demon",
+        "type": "toggle",
+        "img": "images/items/characters/base/demon.png",
+        "img_mods": "",
+        "codes": "characters/base/demon"
+    },
+    {
+        "name": "items/progressiveshopslot",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "items/progressiveshopslot stage1",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshopslot.png",
+                "img_mod": "",
+                "codes": "items/progressiveshopslot_stage1"
+            },
+            {
+                "name": "items/progressiveshopslot stage2",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshopslot.png",
+                "img_mod": "",
+                "codes": "items/progressiveshopslot_stage2"
+            },
+            {
+                "name": "items/progressiveshopslot stage3",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshopslot.png",
+                "img_mod": "",
+                "codes": "items/progressiveshopslot_stage3"
+            }
+        ],
+        "codes": "items/progressiveshopslot"
+    },
+    {
+        "name": "characters/base/hunter",
+        "type": "toggle",
+        "img": "images/items/characters/base/hunter.png",
+        "img_mods": "",
+        "codes": "characters/base/hunter"
+    },
+    {
+        "name": "characters/base/multitasker",
+        "type": "toggle",
+        "img": "images/items/characters/base/multitasker.png",
+        "img_mods": "",
+        "codes": "characters/base/multitasker"
+    },
+    {
+        "name": "characters/base/glutton",
+        "type": "toggle",
+        "img": "images/items/characters/base/glutton.png",
+        "img_mods": "",
+        "codes": "characters/base/glutton"
+    },
+    {
+        "name": "characters/base/ghost",
+        "type": "toggle",
+        "img": "images/items/characters/base/ghost.png",
+        "img_mods": "",
+        "codes": "characters/base/ghost"
+    },
+    {
+        "name": "characters/base/onearmed",
+        "type": "toggle",
+        "img": "images/items/characters/base/onearmed.png",
+        "img_mods": "",
+        "codes": "characters/base/onearmed"
+    },
+    {
+        "name": "items/gold(25)",
+        "type": "consumable",
+        "img": "images/items/items/gold(25).png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/gold(25)"
+    },
+    {
+        "name": "characters/dlc/sailor",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/sailor.png",
+        "img_mods": "",
+        "codes": "characters/dlc/sailor"
+    },
+    {
+        "name": "items/rareitem",
+        "type": "consumable",
+        "img": "images/items/items/rareitem.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/rareitem"
+    },
+    {
+        "name": "characters/base/masochist",
+        "type": "toggle",
+        "img": "images/items/characters/base/masochist.png",
+        "img_mods": "",
+        "codes": "characters/base/masochist"
+    },
+    {
+        "name": "characters/dlc/buccaneer",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/buccaneer.png",
+        "img_mods": "",
+        "codes": "characters/dlc/buccaneer"
+    },
+    {
+        "name": "characters/base/doctor",
+        "type": "toggle",
+        "img": "images/items/characters/base/doctor.png",
+        "img_mods": "",
+        "codes": "characters/base/doctor"
+    },
+    {
+        "name": "characters/base/cyborg",
+        "type": "toggle",
+        "img": "images/items/characters/base/cyborg.png",
+        "img_mods": "",
+        "codes": "characters/base/cyborg"
+    },
+    {
+        "name": "characters/base/baby",
+        "type": "toggle",
+        "img": "images/items/characters/base/baby.png",
+        "img_mods": "",
+        "codes": "characters/base/baby"
+    },
+    {
+        "name": "characters/dlc/chef",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/chef.png",
+        "img_mods": "",
+        "codes": "characters/dlc/chef"
+    },
+    {
+        "name": "characters/base/gladiator",
+        "type": "toggle",
+        "img": "images/items/characters/base/gladiator.png",
+        "img_mods": "",
+        "codes": "characters/base/gladiator"
+    },
+    {
+        "name": "characters/base/speedy",
+        "type": "toggle",
+        "img": "images/items/characters/base/speedy.png",
+        "img_mods": "",
+        "codes": "characters/base/speedy"
+    },
+    {
+        "name": "characters/base/vampire",
+        "type": "toggle",
+        "img": "images/items/characters/base/vampire.png",
+        "img_mods": "",
+        "codes": "characters/base/vampire"
+    },
+    {
+        "name": "characters/base/streamer",
+        "type": "toggle",
+        "img": "images/items/characters/base/streamer.png",
+        "img_mods": "",
+        "codes": "characters/base/streamer"
+    },
+    {
+        "name": "characters/base/generalist",
+        "type": "toggle",
+        "img": "images/items/characters/base/generalist.png",
+        "img_mods": "",
+        "codes": "characters/base/generalist"
+    },
+    {
+        "name": "characters/base/old",
+        "type": "toggle",
+        "img": "images/items/characters/base/old.png",
+        "img_mods": "",
+        "codes": "characters/base/old"
+    },
+    {
+        "name": "characters/base/engineer",
+        "type": "toggle",
+        "img": "images/items/characters/base/engineer.png",
+        "img_mods": "",
+        "codes": "characters/base/engineer"
+    },
+    {
+        "name": "items/commonitem",
+        "type": "consumable",
+        "img": "images/items/items/commonitem.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/commonitem"
+    },
+    {
+        "name": "characters/dlc/hiker",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/hiker.png",
+        "img_mods": "",
+        "codes": "characters/dlc/hiker"
+    },
+    {
+        "name": "characters/dlc/builder",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/builder.png",
+        "img_mods": "",
+        "codes": "characters/dlc/builder"
+    },
+    {
+        "name": "items/gold(10)",
+        "type": "consumable",
+        "img": "images/items/items/gold(10).png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/gold(10)"
+    },
+    {
+        "name": "characters/base/mutant",
+        "type": "toggle",
+        "img": "images/items/characters/base/mutant.png",
+        "img_mods": "",
+        "codes": "characters/base/mutant"
+    },
+    {
+        "name": "characters/base/crazy",
+        "type": "toggle",
+        "img": "images/items/characters/base/crazy.png",
+        "img_mods": "",
+        "codes": "characters/base/crazy"
+    },
+    {
+        "name": "characters/base/renegade",
+        "type": "toggle",
+        "img": "images/items/characters/base/renegade.png",
+        "img_mods": "",
+        "codes": "characters/base/renegade"
+    },
+    {
+        "name": "items/commonupgrade",
+        "type": "consumable",
+        "img": "images/items/items/commonupgrade.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 2,
+        "overlay_background": "#000000",
+        "codes": "items/commonupgrade"
+    },
+    {
+        "name": "characters/base/king",
+        "type": "toggle",
+        "img": "images/items/characters/base/king.png",
+        "img_mods": "",
+        "codes": "characters/base/king"
+    },
+    {
+        "name": "characters/dlc/captain",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/captain.png",
+        "img_mods": "",
+        "codes": "characters/dlc/captain"
+    },
+    {
+        "name": "characters/dlc/dwarf",
+        "type": "toggle",
+        "img": "images/items/characters/dlc/dwarf.png",
+        "img_mods": "",
+        "codes": "characters/dlc/dwarf"
+    },
+    {
+        "name": "characters/base/farmer",
+        "type": "toggle",
+        "img": "images/items/characters/base/farmer.png",
+        "img_mods": "",
+        "codes": "characters/base/farmer"
+    },
+    {
+        "name": "items/progressiveshoplockbutton",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "items/progressiveshoplockbutton stage1",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshoplockbutton.png",
+                "img_mod": "",
+                "codes": "items/progressiveshoplockbutton_stage1"
+            },
+            {
+                "name": "items/progressiveshoplockbutton stage2",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshoplockbutton.png",
+                "img_mod": "",
+                "codes": "items/progressiveshoplockbutton_stage2"
+            },
+            {
+                "name": "items/progressiveshoplockbutton stage3",
+                "inherit_codes": true,
+                "img": "/images/items/items/progressiveshoplockbutton.png",
+                "img_mod": "",
+                "codes": "items/progressiveshoplockbutton_stage3"
+            }
+        ],
+        "codes": "items/progressiveshoplockbutton"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "codes": "update"
+    }
+]

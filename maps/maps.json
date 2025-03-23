@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Crates",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crates.png"
+    },
+    {
+        "name": "characters",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/characters.png"
+    }
+]
